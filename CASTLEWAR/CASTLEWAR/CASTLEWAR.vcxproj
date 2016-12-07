@@ -150,6 +150,7 @@
   <ItemGroup>
     <ClCompile Include="Castelo.cpp" />
     <ClCompile Include="Edificio.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="Quinta.cpp" />
     <ClCompile Include="Torre.cpp" />
   </ItemGroup>
